@@ -20,7 +20,7 @@
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
-		<li><a href="#simple">Sender</a></li>
+		<li><a href="#simple">Simlpe</a></li>
 		<li><a href="#mapping">Request Mapping</a></li>
 		<li><a href="#data">Request Data</a></li>
 		<li><a href="#responses">Response Writing</a></li>
@@ -35,7 +35,7 @@
         <li><a href="#async">Async Requests</a></li>
     </ul>
     <div id="simple">
-		<h2>Sender</h2>
+		<h2>Simple</h2>
 		<p>
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
